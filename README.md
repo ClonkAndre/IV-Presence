@@ -10,7 +10,7 @@ You can find all screenshots here: https://imgur.com/a/S2w0Sh0
 
 ## Other Links
 GTAForums: https://gtaforums.com/topic/975850-iv-presence/  
-GTAInside: Pending Approval...
+GTAInside: https://www.gtainside.com/gta4/mods/169787-iv-presence/  
 
 ## How to Contribute
 ⚠ You will need Zolika's [IV-SDK](https://github.com/Zolika1351/iv-sdk) in order to contribute on this mod.  
