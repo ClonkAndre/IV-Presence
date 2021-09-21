@@ -9,3 +9,5 @@ This mod allows you to share your actions from GTA IV to everyone via Discord's 
 You can find all screenshots here: https://imgur.com/a/S2w0Sh0
 
 ## Other Links
+GTAForums: https://gtaforums.com/topic/975850-iv-presence/
+GTAInside: Pending Approval...
