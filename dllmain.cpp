@@ -7,7 +7,7 @@
 #include <ctime>
 
 #pragma region  Variables
-static const char* APPLICATION_ID = "888450942394056704";
+static const char* APPLICATION_ID = "YOUR_APP_ID_HERE";
 
 DiscordRichPresence dPresence;
 
