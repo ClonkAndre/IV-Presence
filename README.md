@@ -1,8 +1,6 @@
 # IV-Presence
 This mod allows you to share your actions from GTA IV to everyone via Discord's Rich Presence feature.
 
-⚠ WARNING: Mod might crash depending on iv/eflc radio and whether you have combined radios. I'm trying to fix that in the next version. ⚠  
-
 ## Requirements
 - GTA IV 1070 or 1080  
 - ASI Loader
