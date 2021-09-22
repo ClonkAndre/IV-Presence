@@ -2,7 +2,7 @@
 This mod allows you to share your actions from GTA IV to everyone via Discord's Rich Presence feature.
 
 ## Requirements
-- GTA IV 1070 or 1080  
+- GTA IV 1040, 1070 or 1080  
 - ASI Loader
 
 ## Screenshots
