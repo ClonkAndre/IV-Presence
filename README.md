@@ -11,6 +11,7 @@ You can find all screenshots here: https://imgur.com/a/S2w0Sh0
 ## Other Links
 GTAForums: https://gtaforums.com/topic/975850-iv-presence/  
 GTAInside: https://www.gtainside.com/gta4/mods/169787-iv-presence/  
+LCPDFR.com: https://www.lcpdfr.com/downloads/gta4mods/scripts/36402-iv-presence/  
 
 ## How to Contribute
 ⚠ You will need Zolika's [IV-SDK](https://github.com/Zolika1351/iv-sdk) in order to contribute on this mod. (IV-SDK only supports GTA IV 1070-1080)  
