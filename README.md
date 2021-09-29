@@ -14,6 +14,6 @@ GTAInside: https://www.gtainside.com/gta4/mods/169787-iv-presence/
 LCPDFR.com: https://www.lcpdfr.com/downloads/gta4mods/scripts/36402-iv-presence/  
 
 ## How to Contribute
-⚠ You will need Zolika's [IV-SDK](https://github.com/Zolika1351/iv-sdk) in order to contribute on this mod. (IV-SDK only supports GTA IV 1070-1080)  
+⚠ You will need Zolika's [IV-SDK](https://github.com/Zolika1351/iv-sdk) in order to contribute on this mod. (IV-SDK only supports GTA IV 1070-1080 the 1040 is built with a private SDK)  
 
 Do you have an idea to improve this mod, or did you happen to run into a bug? Please share your idea or the bug you found in the [issues](https://github.com/ClonkAndre/IV-Presence/issues) page, or even better: feel free to fork and contribute to this project with a [Pull Request](https://github.com/ClonkAndre/IV-Presence/pulls).
