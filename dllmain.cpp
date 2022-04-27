@@ -21,7 +21,7 @@ struct CustomRichPresence {
 
 #pragma region Variables_And_Maps
 // Discord Stuff
-static const char* APPLICATION_ID = "888450942394056704";
+static const char* APPLICATION_ID = "YOUR_APPLICATION_ID";
 
 DiscordRichPresence dPresence;
 CustomRichPresence dCustomPresence;
