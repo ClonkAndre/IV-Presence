@@ -31,15 +31,14 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClonksCodingLib.GTAIV, Version=1.9.0.38745, Culture=neutral, processorArchitecture=x86">
-      <HintPath>packages\ClonksCodingLib.GTAIV.1.9.0.38745\lib\net472\ClonksCodingLib.GTAIV.dll</HintPath>
+    <Reference Include="ClonksCodingLib.GTAIV, Version=2.0.0.41377, Culture=neutral, processorArchitecture=x86">
+      <HintPath>packages\ClonksCodingLib.GTAIV.2.0.0.41377\lib\net472\ClonksCodingLib.GTAIV.dll</HintPath>
     </Reference>
-    <Reference Include="DiscordRPC, Version=1.2.1.24, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>packages\DiscordRichPresence.1.2.1.24\lib\net45\DiscordRPC.dll</HintPath>
+    <Reference Include="DiscordRPC, Version=1.3.0.28, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>packages\DiscordRichPresence.1.3.0.28\lib\net45\DiscordRPC.dll</HintPath>
     </Reference>
-    <Reference Include="IVSDKDotNetWrapper, Version=1.8.0.0, Culture=neutral, processorArchitecture=x86">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\IVSDKDotNet\Release\IVSDKDotNetWrapper.dll</HintPath>
+    <Reference Include="IVSDKDotNetWrapper, Version=1.9.1.0, Culture=neutral, processorArchitecture=x86">
+      <HintPath>packages\IVSDKDotNetWrapper.1.9.1\lib\net472\IVSDKDotNetWrapper.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>packages\Newtonsoft.Json.13.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
